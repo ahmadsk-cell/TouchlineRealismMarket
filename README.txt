@@ -51,3 +51,12 @@ UNINSTALL
 2. Remove lua.module = "TouchlineRealismMarket.lua" from sider.ini.
 3. Delete TouchlineRealismMarket.lua, TouchlineRealismMarket.ini, and
    TouchlineRealismMarket.caves (if present) from SiderAddons\modules\.
+
+LICENSE
+PolyForm Noncommercial License 1.0.0 (see LICENSE file).
+- Free to use and modify for personal / private noncommercial use.
+- If you include, redistribute, or modify this mod in a public release or
+  mod pack, you must credit and link to Touchline
+  (https://github.com/ahmadsk-cell/Touchline) and keep the LICENSE and
+  Required Notice line intact.
+- Commercial use is not permitted.

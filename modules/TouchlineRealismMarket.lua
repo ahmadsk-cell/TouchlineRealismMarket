@@ -1,5 +1,8 @@
 local m = { version = "1.0.0" }
 
+-- Required Notice: Copyright 2026 ahmadsk-cell -- Touchline (https://github.com/ahmadsk-cell/Touchline)
+-- Licensed under PolyForm Noncommercial License 1.0.0 (https://polyformproject.org/licenses/noncommercial/1.0.0)
+--
 -- TouchlineRealismMarket for Football Life 2026 v1.4 & Football Life 2027.
 --
 -- Everything runs natively inside Sider with no external companion app:

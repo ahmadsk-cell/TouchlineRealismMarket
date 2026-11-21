@@ -107,3 +107,13 @@ Copy any of these `multiplier` values into `TouchlineRealismMarket.ini`:
   1. *(Optional)* If you want to revert modified club profile values inside an existing Master League save before removing the mod, set `mode = off` in `TouchlineRealismMarket.ini` while your career is loaded, let it restore (check the overlay), and save your career.
   2. Remove `lua.module = "TouchlineRealismMarket.lua"` from `sider.ini`.
   3. Delete `TouchlineRealismMarket.lua`, `TouchlineRealismMarket.ini`, and (if present) `TouchlineRealismMarket.caves` from `SiderAddons\modules\`.
+
+---
+
+## License
+
+Licensed under the **[PolyForm Noncommercial License 1.0.0](LICENSE)** (`https://polyformproject.org/licenses/noncommercial/1.0.0`).
+
+- **Personal / private use:** Use and modify freely for your own noncommercial gameplay.
+- **Public releases, mod packs, or modified versions:** Permitted for noncommercial releases **provided you give clear credit with a link to [Touchline](https://github.com/ahmadsk-cell/Touchline)** and retain the `Required Notice:` and license terms from [`LICENSE`](LICENSE).
+- **Commercial use:** Not permitted.
