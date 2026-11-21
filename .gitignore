@@ -1,0 +1,4 @@
+modules/*.caves
+*.log
+.DS_Store
+Thumbs.db
